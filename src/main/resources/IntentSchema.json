@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "GreetIntent"
+    },
+    {
+      "intent": "LogWeightIntent"
+    },
+    {
+      "intent": "AddUserIntent"
+    },
+    {
+      "intent": "ResetDataIntent"
+    },
+    {
+      "intent": "ReportMetricsIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

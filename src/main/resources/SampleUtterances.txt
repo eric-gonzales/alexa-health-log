@@ -1,0 +1,297 @@
+ResetDataIntent clear
+ResetDataIntent clear all
+ResetDataIntent clear all users
+ResetDataIntent clear all measurements
+ResetDataIntent clear metrics
+ResetDataIntent clear numbers
+ResetDataIntent clear weight
+ResetDataIntent clear last weight
+ResetDataIntent clear last user
+ResetDataIntent clear last measurement
+ResetDataIntent clear last numbers
+ResetDataIntent clear my measurements
+ResetDataIntent clear my metrics
+ResetDataIntent clear my numbers
+ResetDataIntent clear my metric
+ResetDataIntent clear my weight
+ResetDataIntent clear my height
+ResetDataIntent clear old measurements
+ResetDataIntent clear old numbers
+ResetDataIntent clear our measurements
+ResetDataIntent clear our weight
+ResetDataIntent clear our height
+ResetDataIntent clear our numbers
+ResetDataIntent clear measurements
+ResetDataIntent clear past measurements
+ResetDataIntent clear past users
+ResetDataIntent clear past metrics
+ResetDataIntent clear past numbers
+ResetDataIntent clear past weight
+ResetDataIntent clear past weights
+ResetDataIntent clear users
+ResetDataIntent clear that user
+ResetDataIntent clear that measurement
+ResetDataIntent clear that weight
+ResetDataIntent clear that height
+ResetDataIntent clear that metric
+ResetDataIntent clear the measurement
+ResetDataIntent clear the weight
+ResetDataIntent clear the user
+ResetDataIntent clear the numbers
+ResetDataIntent clear the numbers
+ResetDataIntent clear those measurements
+ResetDataIntent clear those weights
+ResetDataIntent clear those users
+ResetDataIntent clear those numbers
+ResetDataIntent clear those metrics
+ResetDataIntent delete
+ResetDataIntent delete a measurement
+ResetDataIntent delete measurement
+ResetDataIntent delete numbers
+ResetDataIntent delete last measurement
+ResetDataIntent delete last weight
+ResetDataIntent delete last user
+ResetDataIntent delete last numbers
+ResetDataIntent delete my weight
+ResetDataIntent delete my measurement
+ResetDataIntent delete my metrics
+ResetDataIntent delete my numbers
+ResetDataIntent delete old weight
+ResetDataIntent delete old height
+ResetDataIntent delete old users
+ResetDataIntent delete old measurements
+ResetDataIntent delete old numbers
+ResetDataIntent delete our weight
+ResetDataIntent delete our measurements
+ResetDataIntent delete our users
+ResetDataIntent delete our numbers
+ResetDataIntent delete users
+ResetDataIntent delete past measurement
+ResetDataIntent delete past metrics
+ResetDataIntent delete past users
+ResetDataIntent delete past numbers
+ResetDataIntent delete users
+ResetDataIntent delete that measurement
+ResetDataIntent delete the weight
+ResetDataIntent delete the weights
+ResetDataIntent delete the users
+ResetDataIntent delete the numbers
+ResetDataIntent delete those users
+ResetDataIntent delete those weights
+ResetDataIntent delete those numbers
+ResetDataIntent erase
+ResetDataIntent erase a weight
+ResetDataIntent erase user
+ResetDataIntent erase numbers
+ResetDataIntent erase last weight
+ResetDataIntent erase last users
+ResetDataIntent erase last measurements
+ResetDataIntent erase last numbers
+ResetDataIntent erase my users
+ResetDataIntent erase my measurement
+ResetDataIntent erase my weight
+ResetDataIntent erase my numbers
+ResetDataIntent erase old weight
+ResetDataIntent erase old measurement
+ResetDataIntent erase old users
+ResetDataIntent erase old numbers
+ResetDataIntent erase our measurement
+ResetDataIntent erase our weight
+ResetDataIntent erase our users
+ResetDataIntent erase our numbers
+ResetDataIntent erase users
+ResetDataIntent erase past weight
+ResetDataIntent erase past measurements
+ResetDataIntent erase past users
+ResetDataIntent erase past numbers
+ResetDataIntent erase user
+ResetDataIntent erase that measurement
+ResetDataIntent erase that weight
+ResetDataIntent erase the weight
+ResetDataIntent erase the users
+ResetDataIntent erase the metrics
+ResetDataIntent erase the numbers
+ResetDataIntent erase those measurements
+ResetDataIntent erase those users
+ResetDataIntent erase those numbers
+ResetDataIntent forget
+ResetDataIntent forget a weight
+ResetDataIntent forget weight
+ResetDataIntent forget measurements
+ResetDataIntent forget numbers
+ResetDataIntent forget last weight
+ResetDataIntent forget last measurements
+ResetDataIntent forget last metrics
+ResetDataIntent forget last numbers
+ResetDataIntent forget my weight
+ResetDataIntent forget my measurement
+ResetDataIntent forget my metrics
+ResetDataIntent forget my numbers
+ResetDataIntent forget old measurement
+ResetDataIntent forget old metrics
+ResetDataIntent forget old users
+ResetDataIntent forget old numbers
+ResetDataIntent forget our weight
+ResetDataIntent forget our measurements
+ResetDataIntent forget our users
+ResetDataIntent forget our numbers
+ResetDataIntent forget metrics
+ResetDataIntent forget past weight
+ResetDataIntent forget past users
+ResetDataIntent forget past users
+ResetDataIntent forget past weights
+ResetDataIntent forget past numbers
+ResetDataIntent forget metrics
+ResetDataIntent forget that height
+ResetDataIntent forget the height
+ResetDataIntent forget that weight
+ResetDataIntent forget the weight
+ResetDataIntent forget the users
+ResetDataIntent forget the metrics
+ResetDataIntent forget the numbers
+ResetDataIntent forget those users
+ResetDataIntent forget those metrics
+ResetDataIntent forget those numbers
+ResetDataIntent remove
+ResetDataIntent remove a weight
+ResetDataIntent remove weight
+ResetDataIntent remove numbers
+ResetDataIntent remove last weight
+ResetDataIntent remove last users
+ResetDataIntent remove last metrics
+ResetDataIntent remove last numbers
+ResetDataIntent remove my metrics
+ResetDataIntent remove my weight
+ResetDataIntent remove my users
+ResetDataIntent remove my numbers
+ResetDataIntent remove old weight
+ResetDataIntent remove old users
+ResetDataIntent remove old metrics
+ResetDataIntent remove old numbers
+ResetDataIntent remove our weight
+ResetDataIntent remove our users
+ResetDataIntent remove our metrics
+ResetDataIntent remove our numbers
+ResetDataIntent remove users
+ResetDataIntent remove past weight
+ResetDataIntent remove past users
+ResetDataIntent remove past metrics
+ResetDataIntent remove past numbers
+ResetDataIntent remove metrics
+ResetDataIntent remove that weight
+ResetDataIntent remove the weight
+ResetDataIntent remove the users
+ResetDataIntent remove the metrics
+ResetDataIntent remove the numbers
+ResetDataIntent remove those users
+ResetDataIntent remove those metrics
+ResetDataIntent remove those numbers
+ResetDataIntent reset
+ResetDataIntent reset a weight
+ResetDataIntent reset weight
+ResetDataIntent reset numbers
+ResetDataIntent reset last weight
+ResetDataIntent reset last users
+ResetDataIntent reset last metrics
+ResetDataIntent reset last numbers
+ResetDataIntent reset my metrics
+ResetDataIntent reset my weight
+ResetDataIntent reset my users
+ResetDataIntent reset my numbers
+ResetDataIntent reset old weight
+ResetDataIntent reset old users
+ResetDataIntent reset old metrics
+ResetDataIntent reset old numbers
+ResetDataIntent reset our weight
+ResetDataIntent reset our users
+ResetDataIntent reset our metrics
+ResetDataIntent reset our numbers
+ResetDataIntent reset users
+ResetDataIntent reset past weight
+ResetDataIntent reset past users
+ResetDataIntent reset past metrics
+ResetDataIntent reset past numbers
+ResetDataIntent reset metrics
+ResetDataIntent reset that weight
+ResetDataIntent reset the weight
+ResetDataIntent reset the users
+ResetDataIntent reset the metrics
+ResetDataIntent reset the numbers
+ResetDataIntent reset those users
+ResetDataIntent reset those metrics
+ResetDataIntent reset those numbers
+ResetDataIntent wipe
+ResetDataIntent wipe a weight
+ResetDataIntent wipe weight
+ResetDataIntent wipe numbers
+ResetDataIntent wipe last weight
+ResetDataIntent wipe last height
+ResetDataIntent wipe last users
+ResetDataIntent wipe last metrics
+ResetDataIntent wipe last numbers
+ResetDataIntent wipe my metrics
+ResetDataIntent wipe my weight
+ResetDataIntent wipe my height
+ResetDataIntent wipe my users
+ResetDataIntent wipe my numbers
+ResetDataIntent wipe old weight
+ResetDataIntent wipe old users
+ResetDataIntent wipe old metrics
+ResetDataIntent wipe old numbers
+ResetDataIntent wipe our weight
+ResetDataIntent wipe our height
+ResetDataIntent wipe our users
+ResetDataIntent wipe our metrics
+ResetDataIntent wipe our numbers
+ResetDataIntent wipe users
+ResetDataIntent wipe past weight
+ResetDataIntent wipe past height
+ResetDataIntent wipe past users
+ResetDataIntent wipe past metrics
+ResetDataIntent wipe past numbers
+ResetDataIntent wipe metrics
+ResetDataIntent wipe that weight
+ResetDataIntent wipe the weight
+ResetDataIntent wipe that height
+ResetDataIntent wipe the height
+ResetDataIntent wipe the users
+ResetDataIntent wipe the metrics
+ResetDataIntent wipe the numbers
+ResetDataIntent wipe those users
+ResetDataIntent wipe those metrics
+ResetDataIntent wipe those numbers
+
+AddUserIntent add user {UserName}
+AddUserIntent add person {UserName}
+AddUserIntent add {UserName}
+AddUserIntent track {UserName}
+AddUserIntent log {UserName}
+
+ReportMetricsIntent tell me the weight
+ReportMetricsIntent tell me our weights
+ReportMetricsIntent give me the weights
+ReportMetricsIntent how do our weights look
+ReportMetricsIntent weights
+ReportMetricsIntent read the weights
+ReportMetricsIntent say the weight
+ReportMetricsIntent share our current weight
+ReportMetricsIntent state stored weights
+
+ReportMetricsIntent tell me the height
+ReportMetricsIntent tell me our heights
+ReportMetricsIntent give me the heights
+ReportMetricsIntent how do our heights look
+ReportMetricsIntent heights
+ReportMetricsIntent read the heights
+ReportMetricsIntent say the height
+ReportMetricsIntent share our current height
+ReportMetricsIntent state stored heights
+
+LogWeightIntent set weight for {UserName} {WeightNumber} pounds
+LogWeightIntent set weight for {UserName} as {WeightNumber} pounds
+LogWeightIntent log weight for {UserName} {WeightNumber} pounds
+LogWeightIntent log weight for {UserName} as {WeightNumber} pounds
+LogWeightIntent log {UserName} {WeightNumber} pounds
+LogWeightIntent {UserName} is {WeightNumber} pounds
+LogWeightIntent {UserName} weighs {WeightNumber} pounds
+LogWeightIntent {WeightNumber} pounds for {UserName}\
